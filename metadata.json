@@ -1,0 +1,5 @@
+{
+  "name": "Quiz de l'Alphabet Français",
+  "description": "Une application interactive pour apprendre et tester vos connaissances de l'alphabet français, y compris la prononciation et des exemples de mots fournis par l'IA.",
+  "requestFramePermissions": []
+}
